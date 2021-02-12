@@ -15,3 +15,5 @@ Na home basta digitar uma data valida e clicar em Pesquisar.
 
 data: 2018-10-10 até 2019-10-10
 
+Após alguns segundos a lista vai carregar.
+
